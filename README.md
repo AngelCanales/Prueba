@@ -1,4 +1,4 @@
-# Prueba[readme_prueba_api.md](https://github.com/user-attachments/files/25193701/readme_prueba_api.md)
+# Prueba [readme_prueba_api.md](https://github.com/user-attachments/files/25193701/readme_prueba_api.md)
 # 📦 Prueba API
 
 API REST desarrollada en .NET 8 utilizando Clean Architecture, Entity Framework Core, AutoMapper y patrón Generic Repository + Generic Manager.
