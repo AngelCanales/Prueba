@@ -1,0 +1,32 @@
+﻿@inherits LayoutComponentBase
+@using MudBlazor
+
+<MudThemeProvider />
+<MudDialogProvider />
+<MudSnackbarProvider />
+
+<MudLayout>
+    <MudAppBar Elevation="1">
+        <MudText Typo="Typo.h6">Mi Sistema</MudText>
+    </MudAppBar>
+
+    <MudDrawer Open="true" Elevation="1" ClipMode="DrawerClipMode.Always">
+        <MudNavMenu>
+            <MudNavLink Href="/clientes" Icon="@Icons.Material.Filled.People">
+                Clientes
+            </MudNavLink>
+            <MudNavLink Href="/productos" Icon="@Icons.Material.Filled.Inventory">
+                Productos
+            </MudNavLink>
+            <MudNavLink Href="/ordenes" Icon="@Icons.Material.Filled.Receipt">
+                Órdenes
+            </MudNavLink>
+        </MudNavMenu>
+    </MudDrawer>
+
+    <MudMainContent>
+        <MudContainer>
+            @Body
+        </MudContainer>
+    </MudMainContent>
+</MudLayout>

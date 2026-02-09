@@ -1,4 +1,5 @@
-﻿using Prueba.Application.Interfaces;
+﻿using Microsoft.EntityFrameworkCore.Storage;
+using Prueba.Application.Interfaces;
 using Prueba.Infrastructure.Persistence;
 using Prueba.Infrastructure.Repositories;
 using System;
@@ -13,6 +14,7 @@ namespace Prueba.Infrastructure.UnitOfWork
     {
         private readonly AppDbContext _context;
         private readonly Dictionary<Type, object> _repositories = new();
+        private IDbContextTransaction? _transaction;
 
         public UnitOfWork(AppDbContext context)
         {
@@ -35,6 +37,32 @@ namespace Prueba.Infrastructure.UnitOfWork
 
         public async Task<int> SaveAsync() => await _context.SaveChangesAsync();
         public void Dispose() => _context.Dispose();
+
+        public async Task BeginTransactionAsync(CancellationToken ct = default)
+        {
+            if (_transaction == null)
+                _transaction = await _context.Database.BeginTransactionAsync(ct);
+        }
+
+        public async Task CommitTransactionAsync(CancellationToken ct = default)
+        {
+            if (_transaction != null)
+            {
+                await _transaction.CommitAsync(ct);
+                await _transaction.DisposeAsync();
+                _transaction = null;
+            }
+        }
+
+        public async Task RollbackTransactionAsync(CancellationToken ct = default)
+        {
+            if (_transaction != null)
+            {
+                await _transaction.RollbackAsync(ct);
+                await _transaction.DisposeAsync();
+                _transaction = null;
+            }
+        }
     }
 
 }

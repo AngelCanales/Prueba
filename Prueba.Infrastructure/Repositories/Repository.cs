@@ -3,6 +3,7 @@ using Prueba.Application.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -35,6 +36,9 @@ namespace Prueba.Infrastructure.Repositories
 
         public void Remove(TEntity entity)
             => _dbSet.Remove(entity);
+
+        public async Task<bool> AnyAsync(Expression<Func<TEntity, bool>> predicate)
+        => await _dbSet.AnyAsync(predicate);
     }
 
 }

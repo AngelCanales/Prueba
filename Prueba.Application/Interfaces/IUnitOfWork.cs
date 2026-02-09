@@ -11,5 +11,9 @@ namespace Prueba.Application.Interfaces
         IRepository<TEntity, TKey> Repository<TEntity, TKey>()
             where TEntity : class;
         Task<int> SaveAsync();
+        Task BeginTransactionAsync(CancellationToken ct = default);
+        Task CommitTransactionAsync(CancellationToken ct = default);
+        Task RollbackTransactionAsync(CancellationToken ct = default);
+
     }
 }

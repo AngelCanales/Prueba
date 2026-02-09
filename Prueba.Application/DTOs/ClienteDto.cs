@@ -13,4 +13,17 @@ namespace Prueba.Application.DTOs
         public string Nombre { get; set; } = null!;
         public string Identidad { get; set; } = null!;
     }
+
+    public class ClienteUpdateDto
+    {
+        public string Nombre { get; set; } = null!;
+        public string Identidad { get; set; } = null!;
+    }
+
+    public class ClienteCreateDto
+    {
+        public long ClienteId { get; set; }
+        public string Nombre { get; set; } = null!;
+        public string Identidad { get; set; } = null!;
+    }
 }

@@ -20,4 +20,24 @@ namespace Prueba.Application.DTOs
         public List<DetalleOrdenDto> Detalles { get; set; } = new();
 
     }
+
+    public class OrdenCreateDto
+    {
+        public long OrdenId { get; set; }
+
+        public long ClienteId { get; set; }
+
+        public List<DetalleOrdenCreateDto> Detalle { get; set; } = new();
+
+    }
+
+    public class OrdenUpdateDto
+    {
+        public long OrdenId { get; set; }
+
+        public long ClienteId { get; set; }
+
+        public List<DetalleOrdenUpdateDto> Detalle { get; set; } = new();
+
+    }
 }

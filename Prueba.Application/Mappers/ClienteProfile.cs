@@ -9,7 +9,11 @@ namespace Prueba.Application.Mappers
     {
         public ClienteProfile()
         {
-            CreateMap<Cliente, ClienteDto>().ReverseMap();
+            CreateMap<ClienteCreateDto, Cliente>();
+
+            CreateMap<ClienteUpdateDto, Cliente>();
+
+            CreateMap<Cliente, ClienteDto>();
         }
     }
 }

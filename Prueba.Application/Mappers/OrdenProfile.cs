@@ -8,8 +8,12 @@ namespace Prueba.Application.Mappers
     {
         public OrdenProfile()
         {
-            CreateMap<Orden, OrdenDto>().ReverseMap();
-            CreateMap<DetalleOrden, DetalleOrdenDto>().ReverseMap();
+            CreateMap<OrdenCreateDto, Orden>();
+            CreateMap<DetalleOrdenCreateDto, DetalleOrden>();
+            CreateMap<OrdenUpdateDto, Orden>();
+            CreateMap<DetalleOrdenUpdateDto, DetalleOrden>();
+            CreateMap<Orden, OrdenDto>();
+            CreateMap<DetalleOrden, DetalleOrdenDto>();
         }
     }
 }

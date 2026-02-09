@@ -1,0 +1,76 @@
+﻿@page "/clientes"
+@using Prueba.Web.Models
+@using Prueba.Web.Services
+@inject ClienteService ClienteService
+@inject IDialogService DialogService
+@inject ISnackbar Snackbar
+
+<MudPaper Class="pa-4">
+    <MudText Typo="Typo.h5">Clientes</MudText>
+
+    <MudButton Color="Color.Primary" OnClick="NuevoCliente">Nuevo Cliente</MudButton>
+
+    <MudTable Items="clientes" Hover="true" Bordered="true" Striped="true">
+        <HeaderContent>
+            <MudTh>ClienteId</MudTh>
+            <MudTh>Nombre</MudTh>
+            <MudTh>Identidad</MudTh>
+            <MudTh>Acciones</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd>@context.ClienteId</MudTd>
+            <MudTd>@context.Nombre</MudTd>
+            <MudTd>@context.Identidad</MudTd>
+            <MudTd>
+                <MudButton Color="Color.Primary" Size="Size.Small" OnClick="() => EditarCliente(context)">Editar</MudButton>
+                <MudButton Color="Color.Error" Size="Size.Small" OnClick="() => EliminarCliente(context.ClienteId)">Eliminar</MudButton>
+            </MudTd>
+        </RowTemplate>
+    </MudTable>
+</MudPaper>
+
+@code {
+    private List<ClienteModel> clientes = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CargarClientes();
+    }
+
+    private async Task CargarClientes()
+    {
+        clientes = await ClienteService.GetAllAsync();
+    }
+
+    private async Task NuevoCliente()
+    {
+        var parameters = new DialogParameters { ["Cliente"] = new ClienteModel() };
+        var dialog = DialogService.Show<ClienteForm>("Nuevo Cliente", parameters);
+        var result = await dialog.Result;
+
+        if (!result.Canceled)
+            await CargarClientes();
+    }
+
+    private async Task EditarCliente(ClienteModel cliente)
+    {
+        var parameters = new DialogParameters { ["Cliente"] = cliente };
+        var dialog = DialogService.Show<ClienteForm>("Editar Cliente", parameters);
+        var result = await dialog.Result;
+
+        if (!result.Canceled)
+            await CargarClientes();
+    }
+
+    private async Task EliminarCliente(int id)
+    {
+        bool confirmed = await DialogService.ShowMessageBox(
+            "Confirmar", "¿Desea eliminar este cliente?", yesText: "Sí", noText: "No") == true;
+
+        if (confirmed)
+        {
+            await ClienteService.DeleteAsync(id);
+            await CargarClientes();
+        }
+    }
+}

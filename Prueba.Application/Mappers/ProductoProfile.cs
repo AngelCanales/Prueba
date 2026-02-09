@@ -8,7 +8,11 @@ namespace Prueba.Application.Mappers
     {
         public ProductoProfile()
         {
-            CreateMap<Producto, ProductoDto>().ReverseMap();
+            CreateMap<ProductoCreateDto, Producto>();
+
+            CreateMap<ProductoUpdateDto, Producto>();
+
+            CreateMap<Producto, ProductoDto>();
         }
     }
 }
