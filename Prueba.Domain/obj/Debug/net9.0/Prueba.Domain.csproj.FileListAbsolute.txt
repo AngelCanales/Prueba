@@ -1,0 +1,12 @@
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\obj\Debug\net9.0\Prueba.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\obj\Debug\net9.0\Prueba.Domain.AssemblyInfoInputs.cache
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\obj\Debug\net9.0\Prueba.Domain.AssemblyInfo.cs
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\obj\Debug\net9.0\Prueba.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\obj\Debug\net9.0\Prueba.Domain.sourcelink.json
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\bin\Debug\net9.0\Prueba.Domain.deps.json
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\bin\Debug\net9.0\Prueba.Domain.dll
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\bin\Debug\net9.0\Prueba.Domain.pdb
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\obj\Debug\net9.0\Prueba.Domain.dll
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\obj\Debug\net9.0\refint\Prueba.Domain.dll
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\obj\Debug\net9.0\Prueba.Domain.pdb
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Domain\obj\Debug\net9.0\ref\Prueba.Domain.dll

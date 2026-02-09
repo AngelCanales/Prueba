@@ -1,7 +1,120 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC255D9-8F96-4772-9ACB-112429C05859}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC255D9-8F96-4772-9ACB-112429C05859}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29297F5B-CAB4-4403-815C-1F15A4ED8B13}|Prueba.Domain\\Prueba.Domain.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.domain\\entities\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29297F5B-CAB4-4403-815C-1F15A4ED8B13}|Prueba.Domain\\Prueba.Domain.csproj|solutionrelative:prueba.domain\\entities\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC255D9-8F96-4772-9ACB-112429C05859}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC255D9-8F96-4772-9ACB-112429C05859}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183B47-EC7A-4CEF-93C1-FA951F1EE80C}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183B47-EC7A-4CEF-93C1-FA951F1EE80C}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\managers\\clientemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\managers\\clientemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\managers\\genericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\managers\\genericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\managers\\ordenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\managers\\ordenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\mappers\\productoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\mappers\\productoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\mappers\\ordenprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\mappers\\ordenprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\mappers\\clienteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\mappers\\clienteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\managers\\productomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\managers\\productomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\interfaces\\iclientemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\interfaces\\iclientemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\dtos\\ordendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\dtos\\ordendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\interfaces\\iordenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\interfaces\\iordenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\interfaces\\iproductomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\interfaces\\iproductomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29297F5B-CAB4-4403-815C-1F15A4ED8B13}|Prueba.Domain\\Prueba.Domain.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.domain\\entities\\detalleorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29297F5B-CAB4-4403-815C-1F15A4ED8B13}|Prueba.Domain\\Prueba.Domain.csproj|solutionrelative:prueba.domain\\entities\\detalleorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\dtos\\detalleordendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\dtos\\detalleordendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29297F5B-CAB4-4403-815C-1F15A4ED8B13}|Prueba.Domain\\Prueba.Domain.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29297F5B-CAB4-4403-815C-1F15A4ED8B13}|Prueba.Domain\\Prueba.Domain.csproj|solutionrelative:prueba.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29297F5B-CAB4-4403-815C-1F15A4ED8B13}|Prueba.Domain\\Prueba.Domain.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29297F5B-CAB4-4403-815C-1F15A4ED8B13}|Prueba.Domain\\Prueba.Domain.csproj|solutionrelative:prueba.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183B47-EC7A-4CEF-93C1-FA951F1EE80C}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32183B47-EC7A-4CEF-93C1-FA951F1EE80C}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC255D9-8F96-4772-9ACB-112429C05859}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC255D9-8F96-4772-9ACB-112429C05859}|Prueba.Infrastructure\\Prueba.Infrastructure.csproj|solutionrelative:prueba.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\interfaces\\igenericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\interfaces\\igenericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\results\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\results\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B23A472-B010-4143-911F-1D78E99102D1}|Prueba.Application\\Prueba.Application.csproj|solutionrelative:prueba.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183B47-EC7A-4CEF-93C1-FA951F1EE80C}|Prueba.Api\\Prueba.Api.csproj|c:\\users\\angelcanales\\source\\repos\\prueba\\prueba.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32183B47-EC7A-4CEF-93C1-FA951F1EE80C}|Prueba.Api\\Prueba.Api.csproj|solutionrelative:prueba.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -38,10 +151,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         },
@@ -65,11 +174,375 @@
         },
         {
           "DockedHeight": 184,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdenProfile.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Mappers\\OrdenProfile.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Mappers\\OrdenProfile.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Mappers\\OrdenProfile.cs",
+              "RelativeToolTip": "Prueba.Application\\Mappers\\OrdenProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:14:26.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Mappers\\ProductoProfile.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Mappers\\ProductoProfile.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Mappers\\ProductoProfile.cs",
+              "RelativeToolTip": "Prueba.Application\\Mappers\\ProductoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:12:47.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdenManager.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Managers\\OrdenManager.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Managers\\OrdenManager.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Managers\\OrdenManager.cs",
+              "RelativeToolTip": "Prueba.Application\\Managers\\OrdenManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:08:05.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteManager.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Managers\\ClienteManager.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Managers\\ClienteManager.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Managers\\ClienteManager.cs",
+              "RelativeToolTip": "Prueba.Application\\Managers\\ClienteManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:06:58.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericManager.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Managers\\GenericManager.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Managers\\GenericManager.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Managers\\GenericManager.cs",
+              "RelativeToolTip": "Prueba.Application\\Managers\\GenericManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:59:28.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Api\\Program.cs",
+              "RelativeToolTip": "Prueba.Api\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:41:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:02:00.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orden.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Domain\\Entities\\Orden.cs",
+              "RelativeDocumentMoniker": "Prueba.Domain\\Entities\\Orden.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Domain\\Entities\\Orden.cs",
+              "RelativeToolTip": "Prueba.Domain\\Entities\\Orden.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswA0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:10:54.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAswHYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:16:37.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteProfile.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Mappers\\ClienteProfile.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Mappers\\ClienteProfile.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Mappers\\ClienteProfile.cs",
+              "RelativeToolTip": "Prueba.Application\\Mappers\\ClienteProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:10:52.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoManager.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Managers\\ProductoManager.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Managers\\ProductoManager.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Managers\\ProductoManager.cs",
+              "RelativeToolTip": "Prueba.Application\\Managers\\ProductoManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:09:21.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IClienteManager.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IClienteManager.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Interfaces\\IClienteManager.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IClienteManager.cs",
+              "RelativeToolTip": "Prueba.Application\\Interfaces\\IClienteManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:02:58.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrdenManager.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IOrdenManager.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Interfaces\\IOrdenManager.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IOrdenManager.cs",
+              "RelativeToolTip": "Prueba.Application\\Interfaces\\IOrdenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:04:04.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetalleOrdenDto.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\DTOs\\DetalleOrdenDto.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\DTOs\\DetalleOrdenDto.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\DTOs\\DetalleOrdenDto.cs",
+              "RelativeToolTip": "Prueba.Application\\DTOs\\DetalleOrdenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:58:55.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdenDto.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\DTOs\\OrdenDto.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\DTOs\\OrdenDto.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\DTOs\\OrdenDto.cs",
+              "RelativeToolTip": "Prueba.Application\\DTOs\\OrdenDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:55:14.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\DTOs\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\DTOs\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\DTOs\\ClienteDto.cs",
+              "RelativeToolTip": "Prueba.Application\\DTOs\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:53:59.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\DTOs\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\DTOs\\ProductoDto.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\DTOs\\ProductoDto.cs",
+              "RelativeToolTip": "Prueba.Application\\DTOs\\ProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:53:00.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductoManager.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IProductoManager.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Interfaces\\IProductoManager.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IProductoManager.cs",
+              "RelativeToolTip": "Prueba.Application\\Interfaces\\IProductoManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:51:06.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Prueba.Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "Prueba.Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:12:49.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetalleOrden.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Domain\\Entities\\DetalleOrden.cs",
+              "RelativeDocumentMoniker": "Prueba.Domain\\Entities\\DetalleOrden.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Domain\\Entities\\DetalleOrden.cs",
+              "RelativeToolTip": "Prueba.Domain\\Entities\\DetalleOrden.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:12:15.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Prueba.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Prueba.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:08:55.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Prueba.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Prueba.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:01:04.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGenericManager.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IGenericManager.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Interfaces\\IGenericManager.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IGenericManager.cs",
+              "RelativeToolTip": "Prueba.Application\\Interfaces\\IGenericManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:56:43.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Prueba.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Api\\appsettings.json",
+              "RelativeToolTip": "Prueba.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-09T14:52:21.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Results\\OperationResult.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Results\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Results\\OperationResult.cs",
+              "RelativeToolTip": "Prueba.Application\\Results\\OperationResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:57:45.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Prueba.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:55:35.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Prueba.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Prueba.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:54:19.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Prueba.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AngelCanales\\source\\repos\\Prueba\\Prueba.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Prueba.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-09T14:52:39.28Z",
+              "EditorCaption": ""
             }
           ]
         }

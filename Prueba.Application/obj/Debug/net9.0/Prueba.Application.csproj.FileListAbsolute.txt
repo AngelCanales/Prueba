@@ -1,0 +1,16 @@
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\obj\Debug\net9.0\Prueba.Application.csproj.AssemblyReference.cache
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\obj\Debug\net9.0\Prueba.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\obj\Debug\net9.0\Prueba.Application.AssemblyInfoInputs.cache
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\obj\Debug\net9.0\Prueba.Application.AssemblyInfo.cs
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\obj\Debug\net9.0\Prueba.Application.csproj.CoreCompileInputs.cache
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\obj\Debug\net9.0\Prueba.Application.sourcelink.json
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\bin\Debug\net9.0\Prueba.Application.deps.json
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\bin\Debug\net9.0\Prueba.Application.dll
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\bin\Debug\net9.0\Prueba.Application.pdb
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\bin\Debug\net9.0\Prueba.Domain.dll
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\bin\Debug\net9.0\Prueba.Domain.pdb
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\obj\Debug\net9.0\Prueba.A.8A609B6E.Up2Date
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\obj\Debug\net9.0\Prueba.Application.dll
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\obj\Debug\net9.0\refint\Prueba.Application.dll
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\obj\Debug\net9.0\Prueba.Application.pdb
+C:\Users\AngelCanales\source\repos\Prueba\Prueba.Application\obj\Debug\net9.0\ref\Prueba.Application.dll
